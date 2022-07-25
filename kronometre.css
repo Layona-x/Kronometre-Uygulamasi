@@ -1,0 +1,36 @@
+body {
+    font-size: 15pt;
+}
+
+.timer{
+  padding:20vh;
+  margin-top: 10px;
+}
+
+button{
+border-radius:20px;
+padding:10px 10px;
+}
+
+#buton{
+  background-color:black;
+  width:32%;
+  height:40px;
+  color:white;
+}
+#finish{
+  background-color:blue;
+  width:32%;
+  height:40px;
+  color:purple;
+}
+#stop{
+  background-color:red;
+  width:32%;
+  height:40px;
+  color:black;
+}
+
+button:hover{
+  background-color:AQUA;
+}
